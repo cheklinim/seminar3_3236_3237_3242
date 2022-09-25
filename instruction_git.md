@@ -132,3 +132,5 @@ VSСode дает возможность выбрать какое изменен
     2. git branch -M master
 
     3. git push -u origin master
+
+### Работа с файлом с другого компьютера.
