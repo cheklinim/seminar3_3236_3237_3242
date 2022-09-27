@@ -147,8 +147,8 @@ VSСode дает возможность выбрать какое изменен
 то пользуемся подсказками второго варианта и 
 последовательно вводим в терминале команды
 
-git remote add origin <ссылка из акаунта>
+    git remote add origin <ссылка из акаунта>
 
-git branch -M master
+    git branch -M master
 
-git push -u origin master
+    git push -u origin master
