@@ -126,3 +126,5 @@ VSСode дает возможность выбрать какое изменен
 1. git remote add origin < адрес GitHub>
 2. git branch -m main (изменить main на master)
 3. git push -u origin main ( изменить main на master)
+
+### Добавление изменений в удаленный файл из локального
